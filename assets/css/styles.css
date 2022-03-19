@@ -138,11 +138,6 @@ body::before {
     margin-block: 0.8rem 3.5rem;
 }
 
-.image img {
-    width: 95%;
-    /* margin-left: 1.5rem; */
-}
-
 .overview {
     color: #ffffff;
     letter-spacing: 0.3125rem;
@@ -420,8 +415,8 @@ footer>.container {
     }
     .banner-section>.container {
         flex-direction: row;
-        gap: 4rem;
-        justify-content: space-between;
+        /* gap: 4rem;
+        justify-content: space-between; */
     }
     .banner-section::before {
         background-position: center right 90px;
