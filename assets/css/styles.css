@@ -247,6 +247,7 @@ body::before {
 
 .text-tile>h2 {
     padding-block: 0.875rem;
+    font-family: var(--font-dinPro);
 }
 
 
